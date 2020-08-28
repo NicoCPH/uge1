@@ -1,6 +1,6 @@
 # uge1
 tirsdag:<br>
-customers - jpaBasic - prove
+customers - jpaBasic - prove<br>
 onsdag:<br>
 rest1
 torsdag: <br>
